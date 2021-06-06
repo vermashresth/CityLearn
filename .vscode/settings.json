@@ -1,0 +1,79 @@
+{
+    "python.pythonPath": "/home/petrichor/miniconda3/bin/python"
+    "workbench.colorCustomizations": {
+        "sideBar.background": "#e1e2e8",
+        "sideBar.foreground": "#44454b",
+        "sideBarTitle.foreground": "#44454b",
+        "sideBarSectionHeader.background": "#b4b5bb",
+        "sideBarSectionHeader.foreground": "#44454b",
+        "activityBar.background": "#d8d9e0",
+        "activityBar.foreground": "#44454b",
+        // "sideBar.border": "
+        "activityBar.border": "#8a8a8a33",
+
+        "input.background": "#d8d9e0",
+
+        "input.foreground": "#44454b",
+        "input.placeholderForeground":"#929399",
+
+        // "input.border": "#44454b"
+        // "list.activeSelectionBackground": "#ff0000"
+        // "list.focusBackground": "#ff0000"
+        // "panel.background": "#d8d9e0"
+        "statusBar.background":"#d8d9e0",
+        "statusBar.border": "#d8d9e0",
+        "statusBar.foreground": "#44454b",
+        "statusBarItem.hoverBackground": "#b4b5bb",
+        "statusBarItem.activeBackground": "#b4b5bb",
+
+
+
+		// "list.inactiveSelectionBackground": "#517db8",
+
+        "list.errorForeground": "#f42a2a",
+        "list.warningForeground": "#d5880b",
+       
+    "list.activeSelectionBackground":"#edeef7",
+    "list.activeSelectionForeground":"#232324",
+    // "list.focusBackground":"#edeef7",
+    // "list.focusForeground":"#44454b",
+    "list.hoverBackground":"#edeef7",
+    "list.hoverForeground":"#44454b",
+
+    "list.highlightForeground":"#121417",
+    "list.inactiveSelectionBackground":"#edeef7",
+    "list.inactiveSelectionForeground":"#232324",
+    
+
+
+        // "list.activeSelectionBackground": "#ff0000" # Click o file
+        // "list.focusBackground": "#ff0000", ##keyboard moves
+        // "list.hoverBackground": "#ff0000" # Mouse moves
+
+        // "statusBar.": "#ff0000"
+        
+      }
+
+    // "list.activeSelectionBackground":"#DBDBDC",
+    // "list.activeSelectionForeground":"#232324",
+    // "list.focusBackground":"#DBDBDC",
+    // "list.hoverBackground":"#DBDBDC66",
+    // "list.highlightForeground":"#121417",
+    // "list.inactiveSelectionBackground":"#DBDBDC",
+    // "list.inactiveSelectionForeground":"#232324",
+
+
+    //   "sideBar.background":"#EAEAEB",
+    //   "sideBarSectionHeader.background":"#FAFAFA",
+    //   "statusBar.background":"#EAEAEB",
+    //   "statusBar.foreground":"#424243",
+    //   "statusBarItem.hoverBackground":"#DBDBDC",
+    //   "statusBar.noFolderBackground":"#EAEAEB",
+    //   "activityBar.background":"#EAEAEB",
+    //   "activityBar.foreground":"#121417",
+    //   "activityBarBadge.background":"#526FFF",
+    //   "activityBarBadge.foreground":"#FFFFFF",
+    //   "input.background":"#FFFFFF",
+    //   "input.border":"#DBDBDC",
+    
+}
